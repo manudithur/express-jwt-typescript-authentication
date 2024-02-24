@@ -1,1 +1,1 @@
-# express-jwt-typescript-authentication
+# express-jwt-auth-typescript
